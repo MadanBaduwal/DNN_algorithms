@@ -1,11 +1,4 @@
-Now I am iin fire
-# madan
-
-## About
---------
-[![PyPI](https://img.shields.io/pypi/v/madan)](https://pypi.org/project/madan/0.1.0/)
-
-Madan is an end-to-end open source platform for machine learning,Computer Vision, and Natural Language Processing algorithms. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in AI and developers easily build and deploy AI-powered applications.
+# DNN algorithms
 
 # **If you want to find the secret of computer science think in term of matrix(meaning of row and column)**
 
@@ -74,18 +67,10 @@ Madan is an end-to-end open source platform for machine learning,Computer Vision
 ## Install
 
 1. Leneat
+2. Alexnet
+3. Attention is all you need
+4. Swin transformer
 
-2. Attention is all you need
-
-
-
-
-To install the current release
-```shell
-$ pip install madan
-```
-
-To update madan to the latest version, add --upgrade flag to the above commands.
 
 
 
