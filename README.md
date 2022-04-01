@@ -64,7 +64,6 @@
 # Table of content
 
 -------
-## Install
 
 1. Leneat
 2. Alexnet
