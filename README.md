@@ -1,6 +1,8 @@
 # DNN algorithms
 
-# **If you want to find the secret of computer science think in term of matrix(meaning of row and column)**
+## Mathematics
+
+###  **If you want to find the secret of computer science think in term of matrix(meaning of row and column)**
 
 * **Express everything in datapoints(english,physics,chemistry,bilogy,engineering)> then express in computer science concept matrix(number>datapoint(vector)>matrix>tensor) > then express mathematics concept in matrix linear algebra(points plot in space),probability and statistics(probability and statistics of these data points),calcalus(change rate of these data points)...**
 
@@ -39,9 +41,9 @@
 * **Anything is number and this number carry some information**
 
 
-## **AND**
+### **Programming**
 
-### **1.Any Programming language project structure**
+####  **1.Any Programming language project structure**
 
 ```
 ├── Package               <- Folder Contain Many programming files(modules)
@@ -66,8 +68,11 @@
 -------
 
 1. Leneat
+
 2. Alexnet
+
 3. Attention is all you need
+
 4. Swin transformer
 
 
